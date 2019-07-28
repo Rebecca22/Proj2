@@ -52,3 +52,19 @@ Validation package – contains a class that evaluates the cuts on the dendrogra
 I used google colabatory to produce all the text files that the best clustering method on my local machine will use to find the best clustering for each family.
 
 Please see https://github.com/Rebecca22/Proj2 for the code that is being run. Google colab clones my repository and then runs the main method within the program. After it has run the main method, the text files produced by my program will be downloaded.
+
+This picture asks the user what they would like to execute. If they enter ‘r’, every experiment for each type of system call and feature vector representation will be executed for the ransomware malware family where the feature vectors will be constructed, standardised (if a frequency vector), a dendrogram will be produced and the cuts of the dendrogram at the various heights will be validated using FMS, F1, ARI and SC scores to determine the best cluster.  If they enter ‘b’ or ‘c’ then the same thing will happen as described above for ransomware but for backdoor (‘b’) or trojan (‘t’).
+
+1.  User enters ‘r’ (same thing will happen for when the user enters ‘b’ or ‘t’):
+    Here experiments for each type of vector (Uni-gram bit vector, Uni-gram frequency vector, Di-gram bit vector, Di-gram frequency vector, Tri-gram bit vector or Tri-gram frequency vector) and for each type of behaviour Full representation or Category). In each experiment, the feature vectors will be extracted from all the json files in the malware families (1 vector for every json file), standardised (if frequency vector), the Euclidean Distance is calculated on them and a dendrogram is created of the malware samples against Euclidean Distances. Next the dendrograms are cut at different heights to obtain different clusterings and the clusterings obtained are compared to the labelled dataset from Ramilli and the best clustering obtained (the method of feature selection and model construction and the cut that is the most similar as the labelled dataset) is when the Fowlkes Mallows Score, the F1-Score, the Adjusted Rand Index or the Silhouette Coefficient is the closest to 1.
+
+    User enters ‘r’:
+
+    The experiments for each feature vector will be run:
+    1. Firstly the program, explains the type of feature vector and system call representation that it being run e.g. Running experiment for Uni-gram bit vector with full representation
+    2. Next it says that it is producing the feature vectors. Here the program extracts the system calls from the malware samples, creates the dimensions of the feature vectors according to the Uni-gram, Di-gram or Tri-gram. The program prints compiled keys to tell the user that the dimensions of the feature vectors have been produced.
+    3. It then populates the feature vectors according to the malware samples and whether the vector is a bit vector (1 if the system call is present in the behavioural profile or 0 otherwise) or frequency vector (the number of system calls observed in the behavioural profile according to the Uni-gram, Di-gram or Tri-gram).The program prints the number of system call dimensions of the feature vector to the user.
+    4. Then a dendrogram is produced for the feature vector. Firstly if the feature vector is a frequency vector, it is standardised and then Euclidean distances are calculated and a dendrogram is constructed.
+    5. Next the dendrogram produced is cut at different heights (the number of heights is displayed in the output to the user) to obtain different clusterings. The clusterings obtained are compared to the labelled dataset from Ramilli and are validated against the FMS, F1, ARI and SC scores and a graph is produced to display the scores at the different heights. 
+ 
+ This process (steps a – e) continues for each feature vector (repeats 12 times). 
