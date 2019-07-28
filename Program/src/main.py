@@ -13,10 +13,15 @@ def main():
 
     answer = (sys.stdin.readline())
     sampleType = ""
-    if answer == "b\n":
-        sampleType = "2"
-    if answer == "t\n":
+    if answer == "r\n":
+        sampleType = ""
+    elif answer == "b\n":
+        sampleType = "2"        
+    elif answer == "t\n":
         sampleType = "3"
+    else:
+        print "You have entered an incorrect input"
+        exit(0)
     
     # bit vector with full representation
     print("Running experiment for Uni-gram bit vector with full representation")

@@ -40,15 +40,15 @@ In cmd type:
 
 ##### Description of the classes in src package:
 
-main.py -  used to run my program by running the main method. 
-HierarchicalClustering package - contains a class that standardises the feature vectors if it receives a frequency vector, calculates the Euclidean Distances of each of the feature vectors and then produces a dendogram.
-JsonFiles package - contains a class that gets all the folders in directory samples, and for each folder, get the json files and stores the contents of the files in a list and then store the list for each files in a family in a dictionary and returns the dictionary.
-ProduceVector package - contains a class which produces a vector depending if it is a bit vector, frequency vector or n-gram and returns it.
-SystemCallRepresentation package - contains a class which produces a list and returns it depending on the type of syscall behaviour being  represented ie syscall and ioctl, syscall with binder semantics, composite behaviours and ioctl or composite behaviour and binder semantics.
-Validation package – contains a class that evaluates the cuts on the dendogram at different heights using metrics (FMS, F1, ARI and SC) by finding the best clustering for the matrix passed in.
+main.py -  used to run my program by running the main method which runs experiments for each system call and vector representations.. 
+HierarchicalClustering package - contains a class that standardises the frequency feature vectors (not bit vectors), calculates the Euclidean Distances of each of the feature vectors and then produces a dendrogram.
+JsonFiles package - contains a class that gets all the folders in the specified samples folder (either ransomware, backdoor or trojan), and for each family of the specific malware, gets the json files and stores the contents of the files in a list and then stores the list for each files in a family in a dictionary and returns the dictionary.
+ProduceVector package - contains a class which produces a vector depending on if it is a bit vector or frequency vector and the type n-gram and returns it.
+SystemCallRepresentation package - contains a class which produces a list of system calls for each file and returns it depending on the type of syscall behaviour being represented ie full representation or category.
+Validation package – contains a class that evaluates the cuts on the dendrogram at different heights using metrics (FMS, F1, ARI and SC) by finding the best clustering for the matrix passed in.
 
-##### To run the code:
+##### Google Colabatory and Git Hub(to produce the text files)
 
-To run my program, run main.py (https://github.com/ .........).
+I used google colabatory to produce all the text files that the best clustering method on my local machine will use to find the best clustering for each family.
 
-The user is asked what they should like to execute. ...... 
+Please see https://github.com/Rebecca22/Proj2 for the code that is being run. Google colab clones my repository and then runs the main method within the program. After it has run the main method, the text files produced by my program will be downloaded.
