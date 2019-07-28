@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d168900-049c-4a88-b09d-44dc04ace15e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$ProofOfConcept_all_.coverage" NAME="ProofOfConcept(all) Coverage Results" MODIFIED="1513183232506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Program_all_$Unittests_in_TestHierarchicalClustering_py.coverage" NAME="Unittests in TestHierarchicalClustering.py Coverage Results" MODIFIED="1520784937302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Program_all_$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1520879037976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src" />
+    <SUITE FILE_PATH="coverage/Program_all_$Unittests_in_TestValidation_py.coverage" NAME="Unittests in TestValidation.py Coverage Results" MODIFIED="1520784815104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$main_all_.coverage" NAME="main(all) Coverage Results" MODIFIED="1513176488740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$SystemCallRepresentation.coverage" NAME="SystemCallRepresentation Coverage Results" MODIFIED="1510764338106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/SystemCallRepresentation" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept$Unittests_in_TestReadFromJsonFiles_py.coverage" NAME="Unittests in TestReadFromJsonFiles.py Coverage Results" MODIFIED="1509376177020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Program_all_$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1520933269408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Program_all_$main.coverage" NAME="main Coverage Results" MODIFIED="1559322878158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept2$Unittests_in_test.coverage" NAME="ProofOfConcept(git) Coverage Results" MODIFIED="1509884579994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestValidation_py.coverage" NAME="Unittests in TestValidation.py Coverage Results" MODIFIED="1516095128350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestSystemCallRepresentation_py.coverage" NAME="Unittests in TestSystemCallRepresentation.py Coverage Results" MODIFIED="1513185340370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestHierarchicalClustering_py__1_.coverage" NAME="Unittests in TestHierarchicalClustering.py (1) Coverage Results" MODIFIED="1515853107013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1515841286088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$ProofOfConcept_git_.coverage" NAME="ProofOfConcept(git) Coverage Results" MODIFIED="1513175538187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept$Unittests_in_TestSystemCallRepresentation_py.coverage" NAME="Unittests in TestSystemCallRepresentation.py Coverage Results" MODIFIED="1509623141211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1509737654725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestHierarchicalClustering_py.coverage" NAME="Unittests in TestHierarchicalClustering.py Coverage Results" MODIFIED="1516095133707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestProduceVector_py.coverage" NAME="Unittests in TestProduceVector.py Coverage Results" MODIFIED="1515846098001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$main.coverage" NAME="main Coverage Results" MODIFIED="1516095608811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1516095245427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Program_all_$Unittests_in_test__1_.coverage" NAME="Unittests in test (1) Coverage Results" MODIFIED="1520933459820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_test__1_.coverage" NAME="ProofOfConcept(all) Coverage Results" MODIFIED="1509880622498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ProofOfConcept_all_$Unittests_in_TestReadFromJsonFiles_py.coverage" NAME="Unittests in TestReadFromJsonFiles.py Coverage Results" MODIFIED="1513185347735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1866057882">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="115" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tri</find>
+      <find>di</find>
+      <find>ReadFromJsonFiles.getFamiliesDictionary()</find>
+      <find>print</find>
+      <find>binder</find>
+      <find>familiesDictionary[family][listIndex]['behaviors']['dynamic']['host']</find>
+      <find>familiesDictionary</find>
+      <find>matrix</find>
+      <find>len</find>
+      <find>“</find>
+      <find>expected</find>
+      <find>ax1</find>
+      <find>\n</find>
+      <find>HierarchicalClustering.Clustering(</find>
+      <find>Validation.evaluate(matrix, vector)</find>
+      <find>Validation.evaluate</find>
+      <find>Validation</find>
+      <find>\</find>
+      <find>/</find>
+      <find>exi</find>
+      <find>vectorRep</find>
+      <find>fmsDictionary</find>
+      <find>heights</find>
+      <find>text</find>
+      <find>text f</find>
+      <find>pickle</find>
+      <find>refa</find>
+      <find>refac</find>
+      <find>pattern4</find>
+      <find>syscallsPerFile</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dictionary</replace>
+      <replace>&quot;</replace>
+      <replace>ax1</replace>
+      <replace>ax3</replace>
+      <replace>pattern6</replace>
+      <replace>pattern7</replace>
+      <replace>file_name4</replace>
+      <replace>\</replace>
+      <replace>nGram</replace>
+      <replace>pattern2</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/TestReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/src/ReadFromJsonFiles.py" />
+        <option value="$USER_HOME$/PycharmProjects/JUNIT Tests practice/Test/classtotest.py" />
+        <option value="$PROJECT_DIR$/test/TestBitVector.py" />
+        <option value="$PROJECT_DIR$/src/BitVector/BitVector.py" />
+        <option value="$PROJECT_DIR$/src/SystemCallsRepresentation/SystemCallsRepresentation.py" />
+        <option value="$PROJECT_DIR$/test/SystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/src/Hierarchical Clustering/Hierarchical Clustering.py" />
+        <option value="$USER_HOME$/PycharmProjects/JUNIT Tests practice/Test/tests.py" />
+        <option value="$PROJECT_DIR$/src/SystemCallRepresentation/SystemCallsRepresentation.py" />
+        <option value="$PROJECT_DIR$/l.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/main.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestHierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestProduceVector.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestSystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/HierarchicalClustering/HierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/JsonFiles/ReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/SystemCallRepresentation/SystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/ProduceVector/ProduceVector.py" />
+        <option value="$PROJECT_DIR$/test/TestReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/test/TestSystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/src/JsonFiles/ReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/JsonFiles/ReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/SystemCallRepresentation/SystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/test/TestProduceVector.py" />
+        <option value="$PROJECT_DIR$/test/TestProduceVector.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestProduceVector.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestReadFromJsonFiles.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestSystemCallRepresentation.py" />
+        <option value="$PROJECT_DIR$/test/TestValidation.py" />
+        <option value="$PROJECT_DIR$/test/TestValidation.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestValidation.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/HierarchicalClustering/HierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/Validation/Validation.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/main.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/ProduceVector/ProduceVector.py" />
+        <option value="$PROJECT_DIR$/test/TestHierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/test/TestHierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestHierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/src/HierarchicalClustering/HierarchicalClustering.py" />
+        <option value="$PROJECT_DIR$/src/ProduceVector/ProduceVector.py" />
+        <option value="$PROJECT_DIR$/src/ProduceVector/ProduceVector.py" />
+        <option value="$PROJECT_DIR$/src/Validation/Validation.py" />
+        <option value="$PROJECT_DIR$/src/Validation/Validation.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/SystemCallRepresentation/SystemCallRepresentation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Program(all)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Program(all)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Program(all)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Program(all)" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Program(all)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Program(all)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Program(all)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Program(all)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemCallRepresentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Program(all)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Program(all)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Validation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rebecca\Documents\GitHub\FullUnit_1718_RebeccaMerriman\Programs\Program\test" />
+      <recent name="C:\Users\Rebecca\Documents\GitHub\FullUnit_1718_RebeccaMerriman\Programs\Program\src" />
+      <recent name="C:\Users\Rebecca\Documents\GitHub\FullUnit_1718_RebeccaMerriman\Programs\ProofOfConcept\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rebecca\Documents\University\Year 3\IY3821 Full Unit Project\Project reports and programs\Programs\ProofOfConcept\src\ProduceVector" />
+      <recent name="C:\Users\Rebecca\Documents\University\Year 3\IY3821 Full Unit Project\Project reports and programs\Programs\ProofOfConcept\src\JsonFiles" />
+      <recent name="C:\Users\Rebecca\Documents\University\Year 3\IY3821 Full Unit Project\Project reports and programs\Programs\ProofOfConcept\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program(all)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="ProofOfConcept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="JUNIT tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d168900-049c-4a88-b09d-44dc04ace15e" name="Default" comment="" />
+      <created>1509359951725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509359951725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TestValidation_py - 2018.03.11 at 16h 13m 57s.xml">
+      <configuration name="Unittests in TestValidation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.12 at 19h 04m 44s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.12 at 20h 04m 49s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.13 at 09h 26m 31s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.13 at 09h 27m 30s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.13 at 09h 27m 46s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test - 2018.03.13 at 09h 30m 23s.xml">
+      <configuration name="Unittests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_(1) - 2018.03.12 at 19h 05m 05s.xml">
+      <configuration name="Unittests in test (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_(1) - 2018.03.12 at 20h 05m 46s.xml">
+      <configuration name="Unittests in test (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_(1) - 2018.03.13 at 09h 33m 42s.xml">
+      <configuration name="Unittests in test (1)" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12481089" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32875264" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4924357" weight="0.19639935" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984252" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5075643" side_tool="true" weight="0.19639935" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32980973" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.43192133" />
+      <window_info anchor="right" id="Data View" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PycharmProjects/JUNIT Tests practice/Test/classtotest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/JUNIT Tests practice/Test/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/scipy/cluster/hierarchy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="672" selection-start-line="672" selection-end-line="672" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="522" lean-forward="true" selection-start-line="522" selection-end-line="522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../evaluation metrics.py" />
+    <entry file="file://$PROJECT_DIR$/l.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/SystemCallRepresentation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestSystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestHierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/JsonFiles/ReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/test/TestProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1497">
+          <caret line="131" column="83" lean-forward="true" selection-start-line="131" selection-start-column="83" selection-end-line="131" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/testing/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="799" column="12" lean-forward="true" selection-start-line="799" selection-start-column="12" selection-end-line="799" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/HierarchicalClustering/HierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ProduceVector.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/SystemCallRepresentation/SystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/ProofOfConcept/src/ProduceVector/ProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="127" column="41" selection-start-line="127" selection-start-column="41" selection-end-line="127" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/scipy/sparse/coo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/sklearn/metrics/cluster/supervised.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="95" column="22" lean-forward="true" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/sklearn/metrics/cluster/unsupervised.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="428" selection-start-line="428" selection-end-line="428" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/Validation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/JsonFiles/ReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/SystemCallRepresentation/SystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestSystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/F1.txt" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/Installation Requirements and Program Instructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/HierarchicalClustering/HierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="72" column="57" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/Validation/Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="389" lean-forward="true" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestSystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="56" column="50" lean-forward="true" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="68" column="30" lean-forward="true" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/src/ProduceVector/ProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestHierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="122" column="16" lean-forward="true" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../GitHub/FullUnit_1718_RebeccaMerriman/Programs/Program/test/TestHierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/ADRD_genome_stimulated/4de0d8997949265a4b5647bb9f9d42926bd88191.apk.pickle.gz.syscalls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JsonFiles/ReadFromJsonFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HierarchicalClustering/HierarchicalClustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProduceVector/ProduceVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Validation/Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemCallRepresentation/SystemCallRepresentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="149" column="30" lean-forward="true" selection-start-line="149" selection-start-column="30" selection-end-line="149" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
